@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Health",
+  "description": "Precision concierge medicine, diagnostic triage, and private clinical workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
